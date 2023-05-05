@@ -1,0 +1,9 @@
+Package: com.ps.linebreakliberator
+Name: LineBreakLiberator
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Safari Quick Search results without truncation.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
